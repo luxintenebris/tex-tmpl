@@ -1,2 +1,2 @@
 # tex-tmpl
-Template repository for TeX projects
+Template repository for developing modular TeX projects.
